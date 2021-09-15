@@ -13,7 +13,7 @@ const setActiveWizard = (w) => {
 </script>
 
 <template>
-  <div class="bg-gray-50 mt-7 mr-24">
+  <div class="bg-gray-50 mx-8">
     <h1 class="text-center text-3xl m-4">אשף המערכת</h1>
     <h1 class="text-center text-1xl m-4">
       המערכת שלנו מאוד חכמה אבל בואו נעזור לה להתאים ברכה ומתנה במספר דקות
